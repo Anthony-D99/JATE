@@ -15,3 +15,5 @@ If the user wants to download the web app from the browser they can either click
 This web application is very simple to user and provides a user friendy experience. With options to download the application locally to keep as a text editing app the user can keep track of nots just by typing in the open text field. The application is still accessable to offline users allowing them to have acces to their note or text at all times.
 
 ## Links
+
+https://github.com/Anthony-D99/JATE
